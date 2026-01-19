@@ -28,3 +28,6 @@ Hi 👋, I'm Diya Singh
 
 ## 💼 Work Experience
 - Summer Intern at ITC Ltd.
+
+## 🌐 Socials:
+- Email me at: singhdiya3001@gmail.com

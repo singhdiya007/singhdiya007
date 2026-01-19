@@ -29,5 +29,14 @@ Hi 👋, I'm Diya Singh
 ## 💼 Work Experience
 - Summer Intern at ITC Ltd.
 
-## 🌐 Socials:
-- Email me at: singhdiya3001@gmail.com
+## 🌐 Socials
+
+> 🔗 **Connect with me**
+>
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/)
+>  
+> [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?logo=leetcode)](https://leetcode.com/)
+>  
+> 📧 **Email:** singhdiya3001@gmail.com  
+>
+> 💡 *I'm always excited to collaborate on new projects and ideas. Let's connect!*

@@ -1,24 +1,25 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=singhdiya007)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhdiya007&show_icons=true&theme=default)         ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhdiya007&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandan8757&show_icons=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan8757&layout=compact&hide_border=true" height="180"/>
+</p>
 
-## 🛠 Technologies & Tools
-- Languages: C, JavaScript, C++
-- Frontend: HTML, CSS, React
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Version Control: Git, GitHub
+## 🛠 Technical Skills
+- Languages: C++, Python, SQL, HTML, CSS
+- Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI, DAX, Streamlit
+- Database: MongoDB, SQL
+- Cloud & Tools: Git, GitHub, FastAPI
 
   <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,mongodb,git,github,c,cpp" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=singhdiya007)
 
 ## 🌱 Currently Learning
 - Data Structures & Algorithms
-- MERN Stack
-- System Design
+- 
 
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=singhdiya007&show_icons=true" />

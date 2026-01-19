@@ -23,3 +23,7 @@
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=singhdiya007&show_icons=true" />
 </p>
+
+## 💼 Work Experience
+- Summer Intern at ITC Ltd.
+- 

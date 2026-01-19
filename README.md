@@ -21,5 +21,5 @@
 - System Design
 
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=singhdiya007&show_icons=true" />
 </p>

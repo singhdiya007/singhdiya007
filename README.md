@@ -35,7 +35,7 @@ Hi 👋, I'm Diya Singh
 >
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/diyasingh007/)
 >  
-> [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?logo=leetcode)](https://leetcode.com/in/singhdiya007/)
+> [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?logo=leetcode)](https://leetcode.com/singhdiya007/)
 >  
 > 📧 **Email:** singhdiya3001@gmail.com  
 >

@@ -15,11 +15,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,mongodb,git,github,c,cpp" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=singhdiya007)
 
 ## 🌱 Currently Learning
 - Data Structures & Algorithms
-- 
+- Data Analysis 
 
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=singhdiya007&show_icons=true" />
@@ -27,4 +26,3 @@
 
 ## 💼 Work Experience
 - Summer Intern at ITC Ltd.
-- 
